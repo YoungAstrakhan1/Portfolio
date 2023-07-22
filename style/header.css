@@ -1,0 +1,23 @@
+.header_container{
+    margin-top: 37px;
+    display: flex;
+    gap: 350px;
+    justify-content: center;
+    margin-bottom: 127px;
+}
+
+.logo{
+    font-size: 24px;
+}
+
+.header_menu_text{
+    display: flex;
+    gap: 61px;
+    font-size: 18px;
+}
+
+.header_social{
+    display: flex;
+    gap: 29px;
+}
+
