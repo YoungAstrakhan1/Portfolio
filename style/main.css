@@ -1,0 +1,94 @@
+.about_person, .logo{
+    color: #03045E;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.text_normal{
+    color: #03045E;
+    font-size: 28px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.text_hard{
+    font-size: 100px;
+}
+
+.block_person{
+    padding-top: 5%;
+}
+
+button{
+    background-color: #F5EE84;
+    border: none;
+    min-width: 164px;
+    min-height: 68px;
+    font-size: 20px;
+    border-radius: 6%;
+    font-family: 'Poppins';
+}
+
+.btn_resume{
+    padding-top: 37px;
+    margin-bottom: 150px;
+    
+}
+
+.block_about, .work_block, .contact_block{
+    margin-left: 125px;
+}
+
+.p-text{
+    color: #03045E;
+    font-size: 24px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+
+.block_about_work{
+    margin-left: 245px;
+}
+
+.times_work{
+    
+    color: #03045E;
+    font-size: 24px;
+    padding-bottom: 80px;
+}
+
+.years{
+    padding-bottom: 10px;
+}
+
+.work_block{
+    margin-bottom: 32px;
+}
+
+.container{
+    display: flex;
+    gap: 100px;
+}
+
+.block{
+    margin-bottom: 15px;
+}
+
+.y_text, .h3_name, .p_word{
+    margin-bottom: 10px;
+    color: #03045E;
+}
+
+.y_text{
+    font-size: 15px;
+}
+
+.h3_name{
+    font-size: 24px;
+}
+
+.p_word{
+    font-size: 18px;
+}
